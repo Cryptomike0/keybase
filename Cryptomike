@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am cryptomike0 on github.
+  * I am cryptojason (https://keybase.io/cryptojason) on keybase.
+  * I have a public key ASDqv_5VzeVaNuAI2D4DrHxkYbobMawnQRVuzvE14DHzRgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120eabffe55cde55a36e008d83e03ac7c6461ba1b31ac2741156ecef135e031f3460a",
+      "host": "keybase.io",
+      "kid": "0120eabffe55cde55a36e008d83e03ac7c6461ba1b31ac2741156ecef135e031f3460a",
+      "uid": "46199ebe4b52714a3056bfb5e9c8b619",
+      "username": "cryptojason"
+    },
+    "merkle_root": {
+      "ctime": 1574014187,
+      "hash": "cb8ef45a4bdf2a941898a5c01a4eb0f0ace577a3dccebdd64a3d774e9f5fc42087eee3481b313bbbb2cdf87b2fe54e1b1704f59baef0fa7531860d22c7b2b5c3",
+      "hash_meta": "ce5c41a157e2dc4cb2dfbf70284c38f79a144425b5a96391b5289415f59aa9c8",
+      "seqno": 9970173
+    },
+    "service": {
+      "entropy": "cHxuVR0jb8VC7nuPahlZjc8D",
+      "name": "github",
+      "username": "cryptomike0"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574014245,
+  "expire_in": 504576000,
+  "prev": "e0ea849fc1637c8b466c1592cabd3f37099654255d2ee17dd33a16c363949782",
+  "seqno": 17,
+  "tag": "signature"
+}
+```
+
+with the key [ASDqv_5VzeVaNuAI2D4DrHxkYbobMawnQRVuzvE14DHzRgo](https://keybase.io/cryptojason), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6r/+Vc3lWjbgCNg+A6x8ZGG6GzGsJ0EVbs7xNeAx80YKp3BheWxvYWTESpcCEcQg4OqEn8FjfItGbBWSyr0/NwmWVCVdLuF90zoWw2OUl4LEIA1PIK6vYWDYiZDDMSEoa8lsTv0a2A/m4sBjuawtlaV0AgHCo3NpZ8RAcN837RRP6vmyw2MqITTRCU7YoCnzpVOPBNjRorBUNYpK32g96/1Q61qw3+UmjBXWhtpByZbsX1tuXexoygPYAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIHAyLeeVkKsi5ECOYvbpbnSJ3JQneUF5ozNhgxwNhDXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/cryptojason
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id cryptojason
+```
